@@ -1,0 +1,1 @@
+# Sinter implementation of a CNN decoder. Placeholder for now
