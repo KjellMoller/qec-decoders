@@ -1,0 +1,7 @@
+stim
+sinter
+numpy
+matplotlib
+ldpc
+stimbposd
+torch

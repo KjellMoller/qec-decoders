@@ -1,1 +1,4 @@
 __pycache__/
+demos/demo2/data/
+.vscode/
+*.pyc
