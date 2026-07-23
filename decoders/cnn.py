@@ -1,1 +1,0 @@
-# CNN implementation of the decoder. Placeholder for now
